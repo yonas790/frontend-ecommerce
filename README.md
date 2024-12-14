@@ -1,7 +1,7 @@
 ### mern-ecommerce-frontend
 [Live URL](https://yon-naz-shop.netlify.app)
 
-Key Features of YON-NAZ:
+Key Features of YON-NAZ:<br>
 ✅ Authorization and Authentication – Secure login and registration for both users and admins.<br>
 ✅ Admin Dashboard – A robust interface for efficiently managing the platform.<br>
 ✅ Product Listings – A dynamic and visually appealing display of products, with filtering options to enhance the user experience.<br>
